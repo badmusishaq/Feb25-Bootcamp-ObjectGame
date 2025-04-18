@@ -1,0 +1,25 @@
+{
+    "name": "Boxer-Man",
+    "address": {
+        "unit": 5,
+        "road": "2nd Avenue",
+        "city": "New York"
+    },
+    "books": [
+        {
+            "bookName": "Programming in C#",
+            "isDigital": true,
+            "author": "Zee Zee"
+        },
+        {
+            "bookName": "Intro to Unity",
+            "isDigital": false,
+            "author": "Adewale Johnson"
+        },
+        {
+            "bookName": "Intro to Unity",
+            "isDigital": false,
+            "author": "Adewale Johnson"
+        }
+    ]
+}
